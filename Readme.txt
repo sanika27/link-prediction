@@ -15,7 +15,7 @@ Poincare
 		4. rsgd.py
 		5. train.py
 
-	To execute poincare algorithm - python embed.py
+	To execute poincare algorithm - python embed.py -dim=5
 
 Embedding file: .emb file
 	For visualization of embeddings file execute the embeddings file with the .emb file
